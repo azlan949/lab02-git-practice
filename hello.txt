@@ -1,3 +1,1 @@
-Hello, Git and GitHub!
-This is my updated Lab 02 practice.
-I am learning Git version control.
+Hello from the main branch.
