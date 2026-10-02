@@ -1,1 +1,2 @@
 Hello from the main branch.
+This conflict has been resolved successfully.
